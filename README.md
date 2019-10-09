@@ -1,3 +1,13 @@
+# Quick start
+
+WARNING
+
+Verify that you are running node 10.16.0 by running node -v in a terminal/console window. Older versions produce errors, but newer versions are fine.
+
+npm i
+npm start
+
+
 # PostsV0
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
