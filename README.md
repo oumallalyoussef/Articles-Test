@@ -4,8 +4,8 @@ WARNING
 
 Verify that you are running node 10.16.0 by running node -v in a terminal/console window. Older versions produce errors, but newer versions are fine.
 
-npm i
-npm start
+`npm i` pour installer les modules nécessaires.
+`ng serve -o ` pour demarrer le serveur en `http://localhost:4200/`
 
 
 # PostsV0
